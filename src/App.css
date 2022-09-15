@@ -1,0 +1,39 @@
+.login-page {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+.header {
+    display: flex;
+    justify-content: space-between;
+    background-color: rgb(39, 39, 196);
+    color: white;
+}
+
+.blog-input {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+textarea {
+    width: 383px;
+    height: 70px;
+}
+
+.card {
+    display: flex; 
+    flex-direction: column;
+    align-items: center;
+}
+.card-header {
+    /* display: flex; */
+    /* justify-content: flex-start; */
+    align-items: center;
+}
+
+.card-body {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
